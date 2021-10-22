@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
-<h3 align="center">I am working on Mean Stack.</h3>
+<h3 align="center">I am working on Frontend Developer.</h3>
 
 - 🌱 I’m currently learning **AWS,Ionic**
 
