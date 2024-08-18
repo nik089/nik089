@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">I am working on Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **C#.Net,AWS**
+- 🌱 I’m currently learning **react.js ,AWS, Docker**
 
-- 💬 Ask me about **Angular,MongoDB,Python,HTM,CSS,C,Node.js,Express**
+- 💬 Ask me about **Angular, MongoDB, Python, HTML, CSS, C, Node.js, Express**
 
 - 📫 How to reach me **niteshy089@gmail.com**
 
