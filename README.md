@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Angular, MongoDB, Python, HTML, CSS, C, Node.js, Express, Vue.js**
 
-- 📫 How to reach me **niteshy089@gmail.com**
+- 📫 How to reach me **nikyadav085@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
