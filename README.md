@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">I am working on Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **react.js ,AWS, Docker**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Angular, MongoDB, Python, HTML, CSS, C, Node.js, Express**
+- 💬 Ask me about **Angular, MongoDB, Python, HTML, CSS, C, Node.js, Express, Vue.js**
 
 - 📫 How to reach me **niteshy089@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitesh-y-5279a8146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitesh-y-5279a8146/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/niteshydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niteshydv7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
