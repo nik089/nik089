@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Angular, MongoDB, Python, HTML, CSS, C, Node.js, Express, Vue.js**
+- 💬 Ask me about **Angular,Vue.js MongoDB, Python, Node.js, Express**
 
 - 📫 How to reach me **nikyadav085@gmail.com**
 
