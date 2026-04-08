@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">I am working on Frontend Developer.</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **React.js and Next.js**
 
 - 💬 Ask me about **Angular,Vue.js MongoDB, Python, Node.js, Express**
 
