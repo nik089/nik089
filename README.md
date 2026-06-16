@@ -60,8 +60,7 @@
 | Repository | Language | Description |
 |-----------|----------|-------------|
 | [nitesh-portfolio](https://github.com/nik089/nitesh-portfolio) | TypeScript | Professional Portfolio |
-| [ACrud](https://github.com/nik089/ACrud) | TypeScript | Angular CRUD Operations |
-| [react-ai-chat](https://github.com/nik089/react-ai-chat) | JavaScript | AI Chat Application |
+
 
 </div>
 
