@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nitesh+Yadav;Frontend+Developer;Full+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nitesh+Yadav;Frontend+Developer;React+%26+Angular+Specialist" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🎯 Passionate Frontend Developer | React & Angular Specialist</h3>
@@ -62,9 +62,6 @@
 | [nitesh-portfolio](https://github.com/nik089/nitesh-portfolio) | TypeScript | Professional Portfolio |
 | [ACrud](https://github.com/nik089/ACrud) | TypeScript | Angular CRUD Operations |
 | [react-ai-chat](https://github.com/nik089/react-ai-chat) | JavaScript | AI Chat Application |
-| [next-redux-toolkit](https://github.com/nik089/next-redux-toolkit) | JavaScript | Next.js Redux Setup |
-| [Event-Management-System](https://github.com/nik089/Event-Management-System) | TypeScript | Full Event Management |
-| [angular_signal](https://github.com/nik089/angular_signal) | TypeScript | Angular Signals Demo |
 
 </div>
 
@@ -77,6 +74,7 @@
 - 🔧 DevOps Tools: Docker, Jenkins, SonarQube
 - 🎨 UI/UX Focus: TailwindCSS, Responsive Design
 - 📊 Data Visualization: Chart.js, D3.js concepts
+- 🤖 AI Integration: Building intelligent chat applications with modern frameworks
 
 ---
 
